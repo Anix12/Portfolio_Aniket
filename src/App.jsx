@@ -6,6 +6,7 @@ import { Contact } from "./components/Contact";
 import { useEffect, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { motion } from "framer-motion";
+import { Education } from "./components/Education";
 
 function App() {
   const [isLoaded, setIsLoaded] = useState(false);
@@ -20,6 +21,7 @@ function App() {
       <Navbar />
 
       <Hero />
+      <Education />
       <Projects />
       <Contact />
 
