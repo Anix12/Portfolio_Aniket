@@ -38,7 +38,7 @@ export const Education = () => {
         variants={fadeInVariant}
         transition={fadeInVariant.transition}
       >
-        🎓 Education Timeline
+        Education Timeline
       </motion.h2>
 
       <div className="alt-timeline">
