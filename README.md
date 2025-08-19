@@ -1,13 +1,13 @@
 # 🌐 My Portfolio
 
-![Portfolio Banner](https://via.placeholder.com/1200x300.png?text=Portfolio+Banner)  
+![Portfolio Banner](https://img.shields.io/badge/Aniket%20Adhav-Portfolio-blueviolet?style=for-the-badge&logo=react)  
 
 A modern, responsive **developer portfolio** built with **React + TailwindCSS**, showcasing my projects, skills, and contact information.
 
 ---  
   
 ## 🌍 Live Demo  
-🔗 [Click Me](https://portfolio-aniket-gamma.vercel.app/)   
+🔗 [Portfolio Link ](https://portfolio-aniket-gamma.vercel.app/)   
 
 --
   
